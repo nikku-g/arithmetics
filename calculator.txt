@@ -1,5 +1,0 @@
-class calculator{
-
-public static void main (string str){
-  }
-}
